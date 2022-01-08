@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Beach Trip List</string>
+    <string name="profile">PROFILE</string>
+    <string name="namaku">NAME : RIZKIKA AMILIA ARDIANTI</string>
+    <string name="nim">NIM : 200602058</string>
+    <string name="kelas">CLASS: TECHNICAL INFORMATION B3</string>
+    <string name="alamat">ADDRESS : RARANG, SUBDISTRIC. TERARA</string>
+    <string name="judul">BEACH TRIP LIST</string>
+    <string name="button">(Press image to open gallery)</string>
+    <string name="biodata1">Biodata</string>
+    <string name="kura_kura">" Turtle Beach"</string>
+    <string name="asal_kura">Ekas Buana Village, Jerowaru District</string>
+    <string name="desc_kura">The uniqueness of this beach is its hidden location flanked by two towering hills</string>
+    <string name="syurga">Paradise Beach</string>
+    <string name="syurga_asal">Ekas Village, Jerowaru Kecamatan District</string>
+    <string name="desc_syurga">\"The charm of a paradise beach of golden sand and clear sea water, exotic hillside views,\"</string>
+    <string name="pink">Pink Beach</string>
+    <string name="asal_pink">Sekaroh Village, Jerowaru District</string>
+    <string name="desc_pink">This beach is one of the seven beaches in the world that has pink sand</string>
+    <string name="belanak">Selong Belanak Beach</string>
+    <string name="asal_belanak">West Praya District</string>
+    <string name="desc_belanak">This beach is popular for swimming and surfing, with white sand, clear water and sun loungers for rent.</string>
+    <string name="semeti">Panati Semeti</string>
+    <string name="asal_semeti">Mekarsari Village, Pujut . District</string>
+    <string name="desc_semeti">The uniqueness of this Lombok beach is the presence of elongated and stacked rocks that form cliffs.</string>
+    <string name="aan">Tanjung Aan Beach</string>
+    <string name="asal_aan">Blowing Village, Pujut,</string>
+    <string name="desc_aan">The view from the top of this hill is really cool, above it you can see the beautiful stretch of Aan beach.</string>
+    <string name="terawangan">Gili Trawangan Beach</string>
+    <string name="asal_terawangan">Gili Indah Village, North Lombok</string>
+    <string name="desc_terawangan">has a beach with beautiful white sand, unspoiled coral reefs, and beautiful marine life.</string>
+    <string name="kecinan">Kecinan Beach</string>
+    <string name="asal_kecinan">\"Jln. Raya Senggigi, Malacca, Winner\"</string>
+    <string name="desc_kecinan">The beach is very beautiful</string>
+    <string name="sengigi">Senggigi Beach</string>
+    <string name="asal_sengigi">Jl. Raya Senggigi km 6-7, Batu Layar District</string>
+    <string name="desc_sengigi">presents a beautiful and enchanting beach view, the color of the water is bluish green and has an underwater view</string>
+    <string name="lombok_timur">East Lombok</string>
+    <string name="lombok_tengah">central Lombok</string>
+    <string name="lombok_utara">north lombok</string>
+    <string name="daftar">"BEACH LIST at "</string>
+</resources>
